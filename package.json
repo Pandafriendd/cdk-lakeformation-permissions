@@ -21,6 +21,10 @@
     "typescript": "~3.9.7"
   },
   "dependencies": {
+    "@aws-cdk/aws-glue": "^1.109.0",
+    "@aws-cdk/aws-iam": "^1.109.0",
+    "@aws-cdk/aws-lakeformation": "^1.109.0",
+    "@aws-cdk/aws-s3": "^1.109.0",
     "@aws-cdk/core": "1.109.0",
     "source-map-support": "^0.5.16"
   }
